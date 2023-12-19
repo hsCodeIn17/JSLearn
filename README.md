@@ -1,2 +1,0 @@
-# JSLearn
-I learn Javascript
